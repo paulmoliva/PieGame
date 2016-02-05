@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>awwman.wav</file>
+        <file>nom.wav</file>
+        <file>bunny.wav</file>
+        <file>ahh.wav</file>
+        <file>eww.wav</file>
+        <file>whatdoing.wav</file>
+        <file>ouch.wav</file>
+        <file>highscore.wav</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Pie.png</file>
+        <file>player.png</file>
+        <file>kitchen.png</file>
+        <file>story.png</file>
+        <file>scores.txt</file>
+        <file>paul.png</file>
+        <file>fish.png</file>
+        <file>intro.png</file>
+        <file>anvil.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
